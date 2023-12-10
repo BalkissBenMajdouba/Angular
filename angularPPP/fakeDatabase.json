@@ -1,0 +1,19 @@
+{
+  "smartphones": [
+    {
+      "id": 2,
+      "name": "Oppo Reno5",
+      "price": "1300"
+    },
+    {
+      "id": 3,
+      "name": "Samsung S21+",
+      "price": "2900"
+    },
+    {
+      "id": 4,
+      "name": "Redmi 12C",
+      "price": "250"
+    }
+  ]
+}
